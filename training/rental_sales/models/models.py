@@ -3,9 +3,9 @@
 # from odoo import models, fields, api
 
 
-# class sales_rental(models.Model):
-#     _name = 'sales_rental.sales_rental'
-#     _description = 'sales_rental.sales_rental'
+# class rental_sales(models.Model):
+#     _name = 'rental_sales.rental_sales'
+#     _description = 'rental_sales.rental_sales'
 
 #     name = fields.Char()
 #     value = fields.Integer()
